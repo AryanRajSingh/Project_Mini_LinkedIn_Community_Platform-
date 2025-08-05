@@ -1,0 +1,3 @@
+[submodule "frontend"]
+  path = frontend
+  url = https://github.com/AryanRajSingh/Project_Mini_LinkedIn_Community_Platform-/frontend/
